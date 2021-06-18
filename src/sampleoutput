@@ -1,0 +1,69 @@
+
+
+------------------------------------
+PART3
+------------------------------------
+
+-----------------------------------------------
+-----------------------------------------------
+-----------------------------------------------
+Number of training iterations to convergence = 150
+Number of correct classification = 96
+Accuracy= 0.96%
+ The number of images that classified wrongly = 4
+-----------------------------------------------
+Ramdom feaure created:
+Feature{rows=null, cols=null, sgn=null}
+Feature{rows=[6, 6, 4], cols=[6, 5, 0], sgn=[false, true, true]}
+Feature{rows=[2, 0, 7], cols=[1, 9, 5], sgn=[true, false, true]}
+Feature{rows=[3, 4, 2], cols=[8, 3, 9], sgn=[false, false, true]}
+Feature{rows=[7, 4, 7], cols=[2, 2, 8], sgn=[true, false, false]}
+Feature{rows=[2, 1, 2], cols=[7, 7, 7], sgn=[true, true, false]}
+Feature{rows=[2, 5, 2], cols=[0, 3, 4], sgn=[true, false, false]}
+Feature{rows=[1, 8, 5], cols=[3, 9, 5], sgn=[false, true, false]}
+Feature{rows=[9, 7, 5], cols=[5, 6, 0], sgn=[true, false, false]}
+Feature{rows=[6, 4, 1], cols=[5, 0, 3], sgn=[false, false, true]}
+Feature{rows=[3, 7, 7], cols=[4, 7, 7], sgn=[true, true, true]}
+Feature{rows=[3, 2, 9], cols=[2, 0, 4], sgn=[false, false, false]}
+Feature{rows=[3, 0, 8], cols=[3, 0, 9], sgn=[true, false, true]}
+Feature{rows=[0, 1, 3], cols=[8, 0, 7], sgn=[false, false, true]}
+Feature{rows=[4, 2, 0], cols=[4, 5, 0], sgn=[true, false, false]}
+Feature{rows=[7, 9, 6], cols=[8, 2, 6], sgn=[true, true, true]}
+Feature{rows=[8, 9, 5], cols=[9, 6, 6], sgn=[true, true, false]}
+Feature{rows=[5, 1, 0], cols=[0, 2, 5], sgn=[false, false, false]}
+Feature{rows=[5, 3, 9], cols=[4, 3, 7], sgn=[true, false, true]}
+Feature{rows=[7, 9, 5], cols=[3, 3, 5], sgn=[false, true, false]}
+Feature{rows=[9, 7, 5], cols=[2, 2, 9], sgn=[false, false, false]}
+Feature{rows=[4, 9, 8], cols=[6, 5, 0], sgn=[false, false, false]}
+Feature{rows=[3, 3, 0], cols=[4, 9, 5], sgn=[true, true, true]}
+Feature{rows=[5, 5, 3], cols=[2, 4, 2], sgn=[true, false, true]}
+Feature{rows=[1, 3, 6], cols=[6, 2, 4], sgn=[false, true, false]}
+Feature{rows=[3, 5, 2], cols=[1, 6, 5], sgn=[false, false, true]}
+Feature{rows=[6, 9, 7], cols=[8, 8, 7], sgn=[false, true, false]}
+Feature{rows=[1, 4, 3], cols=[8, 0, 1], sgn=[true, false, false]}
+Feature{rows=[1, 4, 0], cols=[8, 5, 0], sgn=[true, false, false]}
+Feature{rows=[6, 1, 2], cols=[9, 6, 4], sgn=[false, false, true]}
+Feature{rows=[7, 5, 3], cols=[3, 2, 8], sgn=[true, false, true]}
+Feature{rows=[7, 5, 9], cols=[2, 8, 9], sgn=[true, true, true]}
+Feature{rows=[8, 9, 1], cols=[2, 4, 9], sgn=[false, false, false]}
+Feature{rows=[7, 6, 0], cols=[5, 0, 3], sgn=[true, false, false]}
+Feature{rows=[7, 9, 8], cols=[9, 3, 1], sgn=[true, true, true]}
+Feature{rows=[2, 9, 0], cols=[4, 6, 1], sgn=[false, false, false]}
+Feature{rows=[9, 7, 8], cols=[9, 4, 3], sgn=[false, true, true]}
+Feature{rows=[6, 8, 8], cols=[8, 8, 7], sgn=[true, true, true]}
+Feature{rows=[2, 9, 9], cols=[9, 6, 9], sgn=[true, false, true]}
+Feature{rows=[5, 9, 9], cols=[9, 9, 9], sgn=[true, false, true]}
+Feature{rows=[1, 4, 4], cols=[8, 0, 5], sgn=[true, true, false]}
+Feature{rows=[2, 0, 7], cols=[2, 4, 3], sgn=[false, true, true]}
+Feature{rows=[0, 5, 2], cols=[0, 5, 4], sgn=[true, true, true]}
+Feature{rows=[1, 7, 8], cols=[8, 1, 6], sgn=[true, true, false]}
+Feature{rows=[6, 3, 8], cols=[7, 8, 1], sgn=[false, true, true]}
+Feature{rows=[6, 2, 7], cols=[2, 1, 1], sgn=[false, false, false]}
+Feature{rows=[6, 2, 9], cols=[7, 0, 9], sgn=[true, true, true]}
+Feature{rows=[1, 7, 1], cols=[2, 4, 1], sgn=[false, false, true]}
+Feature{rows=[7, 4, 9], cols=[9, 9, 9], sgn=[true, true, false]}
+Feature{rows=[9, 8, 2], cols=[7, 3, 9], sgn=[false, true, true]}
+Feature{rows=[0, 7, 6], cols=[9, 0, 1], sgn=[false, true, true]}
+-----------------------------------------------
+Final Weight set:
+weight=[-6.0, 5.0, -21.0, 13.0, 1.0, 2.0, 7.0, 0.0, 3.0, -5.0, -17.0, -9.0, 4.0, -5.0, 27.0, 29.0, -13.0, 22.0, 24.0, -4.0, 0.0, 0.0, -24.0, 6.0, -5.0, -16.0, -11.0, 18.0, 18.0, 1.0, 20.0, 7.0, 13.0, 5.0, 0.0, -42.0, -33.0, -18.0, 26.0, 12.0, -31.0, -21.0, 1.0, 3.0, 22.0, -20.0, -12.0, -6.0, -9.0, -27.0, 17.0]

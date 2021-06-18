@@ -1,0 +1,12 @@
+------------------------------------
+PART3
+------------------------------------
+Make sure that we are in the src directory and compiled all java files
+To run part 3 , enter the command with the format below:
+
+java Main part3 image.data_FilePath
+
+Example:
+java Main part3 /Users/patrickzhang/Desktop/COMP307/COMP307A1/ass1_data/part3/image.data
+
+Then the system will run Perceptron and will print out result and performance
